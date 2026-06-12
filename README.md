@@ -190,8 +190,8 @@ The solution follows a **Star Schema** design to improve report performance and 
 ## 📸 Dashboard Screenshots
 
 ### Sales Representative View
+<img width="656" height="373" alt="image" src="https://github.com/user-attachments/assets/aeeefcd3-bf22-465c-b187-2e6881b35564" />
 
-<img width="586" height="335" alt="image" src="https://github.com/user-attachments/assets/c44e17b6-ac3f-4875-8e83-701b1a75392b" /> 
 
 ### Product Performance View
 <img width="655" height="374" alt="image" src="https://github.com/user-attachments/assets/544170ee-1356-4f84-9718-0fd0dec519a0" />
